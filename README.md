@@ -15,19 +15,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/kiranmayee09/DASleetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/kiranmayee09/DASleetcode-/tree/master/0802-find-eventual-safe-states) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kiranmayee09/DASleetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/kiranmayee09/DASleetcode-/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kiranmayee09/DASleetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/kiranmayee09/DASleetcode-/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kiranmayee09/DASleetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/kiranmayee09/DASleetcode-/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
