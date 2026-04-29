@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
+| [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
+| [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/kiranmayee09/DASleetcode-/tree/master/1108-defanging-an-ip-address) |
 | [3110-score-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/3110-score-of-a-string) |
 ## Breadth-First Search
