@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/kiranmayee09/DASleetcode-/tree/master/1108-defanging-an-ip-address) |
+| [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
 | [3110-score-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/3110-score-of-a-string) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
+| [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/kiranmayee09/DASleetcode-/tree/master/3285-find-indices-of-stable-mountains) |
