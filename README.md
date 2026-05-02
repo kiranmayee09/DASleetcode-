@@ -120,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
