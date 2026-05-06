@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kiranmayee09/DASleetcode-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/kiranmayee09/DASleetcode-/tree/master/3285-find-indices-of-stable-mountains) |
 ## Divide and Conquer
