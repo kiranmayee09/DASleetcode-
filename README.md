@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kiranmayee09/DASleetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
