@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/1313-decompress-run-length-encoded-list) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Greedy
