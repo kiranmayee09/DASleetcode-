@@ -3,8 +3,6 @@ class Solution:
 
         ans = 0
         for i in range(len(s)):
-            for j in range(len(t)):
-                if s[i] == t[j]:
-                    ans += abs(i - j)
-            
+            pos = t.index(s[i])
+            ans +=abs(i - pos)
         return ans
