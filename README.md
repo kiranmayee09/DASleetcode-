@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kiranmayee09/DASleetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3110-score-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kiranmayee09/DASleetcode-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/3280-convert-date-to-binary) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kiranmayee09/DASleetcode-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
