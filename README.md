@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
