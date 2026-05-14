@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kiranmayee09/DASleetcode-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2367-number-of-arithmetic-triplets) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kiranmayee09/DASleetcode-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kiranmayee09/DASleetcode-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kiranmayee09/DASleetcode-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kiranmayee09/DASleetcode-/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/kiranmayee09/DASleetcode-/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -217,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
