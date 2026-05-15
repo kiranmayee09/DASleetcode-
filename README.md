@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kiranmayee09/DASleetcode-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/kiranmayee09/DASleetcode-/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/kiranmayee09/DASleetcode-/tree/master/1108-defanging-an-ip-address) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kiranmayee09/DASleetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Greedy
