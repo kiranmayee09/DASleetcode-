@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kiranmayee09/DASleetcode-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -242,13 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
