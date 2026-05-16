@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kiranmayee09/DASleetcode-/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kiranmayee09/DASleetcode-/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/kiranmayee09/DASleetcode-/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kiranmayee09/DASleetcode-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kiranmayee09/DASleetcode-/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/kiranmayee09/DASleetcode-/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
