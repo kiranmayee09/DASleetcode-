@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kiranmayee09/DASleetcode-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kiranmayee09/DASleetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kiranmayee09/DASleetcode-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2974-minimum-number-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/2974-minimum-number-game) |
 ## Counting Sort
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
 | ------- |
