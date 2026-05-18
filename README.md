@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/kiranmayee09/DASleetcode-/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/kiranmayee09/DASleetcode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/kiranmayee09/DASleetcode-/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
