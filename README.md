@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kiranmayee09/DASleetcode-/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/kiranmayee09/DASleetcode-/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0128-longest-consecutive-sequence) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kiranmayee09/DASleetcode-/tree/master/0035-search-insert-position) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
