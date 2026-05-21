@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kiranmayee09/DASleetcode-/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kiranmayee09/DASleetcode-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/3794-reverse-string-prefix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3174-clear-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
