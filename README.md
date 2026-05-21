@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/kiranmayee09/DASleetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3174-clear-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/3174-clear-digits) |
 ## Bit Manipulation
