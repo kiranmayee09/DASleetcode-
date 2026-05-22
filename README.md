@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Greedy
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/kiranmayee09/DASleetcode-/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
