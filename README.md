@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kiranmayee09/DASleetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kiranmayee09/DASleetcode-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/kiranmayee09/DASleetcode-/tree/master/0561-array-partition) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -236,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/kiranmayee09/DASleetcode-/tree/master/2469-convert-the-temperature) |
