@@ -1,14 +1,15 @@
 class Solution(object):
     def moveZeroes(self, nums):
         
-        temp = [0] * len(nums)
-        index = 0
-        for num in nums:
-            if num != 0:
-                temp[index] = num
-                index += 1
-                
+        temp = []
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                temp.append(nums[i])
+
+        zerors = len(nums) - len(temp)
+
+        temp.extend([0] * zerors)
+
         for i in range(len(nums)):
             nums[i] = temp[i]
-        
         return nums
