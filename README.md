@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kiranmayee09/DASleetcode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/kiranmayee09/DASleetcode-/tree/master/0724-find-pivot-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/kiranmayee09/DASleetcode-/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1122-relative-sort-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/kiranmayee09/DASleetcode-/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/kiranmayee09/DASleetcode-/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Enumeration
