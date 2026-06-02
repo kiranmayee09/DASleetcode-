@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kiranmayee09/DASleetcode-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/kiranmayee09/DASleetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -361,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kiranmayee09/DASleetcode-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/kiranmayee09/DASleetcode-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
