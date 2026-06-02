@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kiranmayee09/DASleetcode-/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/kiranmayee09/DASleetcode-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -356,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kiranmayee09/DASleetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kiranmayee09/DASleetcode-/tree/master/0073-set-matrix-zeroes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kiranmayee09/DASleetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
