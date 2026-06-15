@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/kiranmayee09/DASleetcode-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kiranmayee09/DASleetcode-/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
