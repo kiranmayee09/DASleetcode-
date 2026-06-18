@@ -15,7 +15,8 @@ class Solution:
         head.next = None
 
         return new_head """
-        stack = []
+
+        """ stack = []
         temp = head
         while temp:
             stack.append(temp.val)
@@ -25,4 +26,14 @@ class Solution:
         while temp:
             temp.val = stack.pop()
             temp = temp.next
-        return head 
+        return head """
+        curr = head
+        prev = None
+        next = None
+
+        while curr:
+            next = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next
+        return prev
