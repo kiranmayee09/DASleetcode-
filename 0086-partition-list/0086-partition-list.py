@@ -18,10 +18,17 @@ class Solution:
                 arr.append(temp.val)
             temp = temp.next
         
-        temp = head
+        """ temp = head
         i = 0
         while temp:
             temp.val = arr[i]
             i += 1
             temp = temp.next
-        return head
+        return head """
+
+        dummy = ListNode(0)
+        curr = dummy
+        for num in arr:
+            curr.next = ListNode(num)
+            curr = curr.next
+        return dummy.next
