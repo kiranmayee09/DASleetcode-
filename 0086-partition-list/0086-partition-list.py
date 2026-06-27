@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
-        arr = []
+        """ arr = []
         temp = head
         while temp:
             if temp.val < x:
@@ -18,17 +18,39 @@ class Solution:
                 arr.append(temp.val)
             temp = temp.next
         
-        """ temp = head
+        temp = head
         i = 0
         while temp:
             temp.val = arr[i]
             i += 1
             temp = temp.next
-        return head """
-
+        return head 
+        --------
         dummy = ListNode(0)
         curr = dummy
         for num in arr:
             curr.next = ListNode(num)
             curr = curr.next
-        return dummy.next
+        return dummy.next """
+
+        smallDummy = ListNode(0)
+        bigDummy = ListNode(0)
+
+        small = smallDummy
+        big = bigDummy
+
+        temp = head
+
+        while temp:
+            if temp.val < x:
+                small.next = temp
+                small = small.next
+            else:
+                big.next = temp
+                big = big.next
+            temp = temp.next
+        
+        big.next = None
+        small.next = bigDummy.next
+
+        return smallDummy.next
