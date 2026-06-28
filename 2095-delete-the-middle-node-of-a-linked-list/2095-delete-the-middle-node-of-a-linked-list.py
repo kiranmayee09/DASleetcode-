@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head is None or head.next is None:
+        """ if head is None or head.next is None:
             return None
 
         count = 0
@@ -17,11 +17,11 @@ class Solution:
 
         middle = count // 2
 
-        """ temp = head
+        temp = head
         for i in range(middle -1):
             temp = temp.next
         temp.next = temp.next.next
-        return head """
+        return head 
 
         dummy = ListNode(0)
         dummy.next = head
@@ -30,4 +30,16 @@ class Solution:
         for _ in range(middle):
             temp = temp.next
         temp.next = temp.next.next
-        return dummy.next
+        return dummy.next """
+
+        if head is None or head.next is None:
+            return None
+
+        nodes = []
+        temp = head
+        while temp:
+            nodes.append(temp)
+            temp = temp.next
+        middle = len(nodes) // 2
+        nodes[middle -1].next = nodes[middle].next
+        return head
