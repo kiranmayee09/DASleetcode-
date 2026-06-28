@@ -17,8 +17,17 @@ class Solution:
 
         middle = count // 2
 
-        temp = head
+        """ temp = head
         for i in range(middle -1):
             temp = temp.next
         temp.next = temp.next.next
-        return head
+        return head """
+
+        dummy = ListNode(0)
+        dummy.next = head
+        temp = dummy
+
+        for _ in range(middle):
+            temp = temp.next
+        temp.next = temp.next.next
+        return dummy.next
