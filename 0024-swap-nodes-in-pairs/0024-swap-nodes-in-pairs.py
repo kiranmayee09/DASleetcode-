@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
+        """ if not head:
             return head
 
         arr = []
@@ -24,4 +24,15 @@ class Solution:
             i += 1
             temp = temp.next
 
-        return head
+        return head """
+
+        if not head or not head.next:
+            return head
+
+        frist = head
+        secound = head.next
+
+        frist.next = self.swapPairs(secound.next)
+        secound.next = frist
+
+        return secound
