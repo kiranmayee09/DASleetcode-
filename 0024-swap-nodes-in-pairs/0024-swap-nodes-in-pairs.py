@@ -26,7 +26,7 @@ class Solution:
 
         return head """
 
-        if not head or not head.next:
+        """ if not head or not head.next:
             return head
 
         frist = head
@@ -35,4 +35,21 @@ class Solution:
         frist.next = self.swapPairs(secound.next)
         secound.next = frist
 
-        return secound
+        return secound """
+
+        dummy = ListNode(0)
+        dummy.next = head
+
+        prev = dummy
+
+        while prev.next and prev.next.next:
+            frist = prev.next
+            secound = frist.next
+
+            frist.next = secound.next
+            secound.next = frist
+            prev.next = secound
+
+            prev = frist
+
+        return dummy.next
