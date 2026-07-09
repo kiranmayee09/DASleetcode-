@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kiranmayee09/DASleetcode-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kiranmayee09/DASleetcode-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kiranmayee09/DASleetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kiranmayee09/DASleetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kiranmayee09/DASleetcode-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiranmayee09/DASleetcode-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kiranmayee09/DASleetcode-/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
