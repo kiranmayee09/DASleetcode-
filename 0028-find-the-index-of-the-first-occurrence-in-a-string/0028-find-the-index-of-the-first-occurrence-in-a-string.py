@@ -4,11 +4,15 @@ class Solution:
         m = len(needle)
 
         for i in range(n - m + 1):
-            match = True
-            for j in range(m):
-                if haystack[i+j] != needle[j]:
-                    match = False
+
+            j = 0
+            while j < m:
+                if haystack[i + j] != needle[j]:
                     break
-            if match:
+                j += 1
+
+            if j == m:
                 return i
-        return -1 
+
+        return -1
+       
