@@ -7,7 +7,10 @@ class Solution:
         return word[indexch::-1] + word[indexch+1::] """
 
         stack = []
-
+        
+        """ index = word.find(ch)
+        if index == -1:
+            return word"""
         if ch not in word:
             return word
         
