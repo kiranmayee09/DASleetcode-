@@ -8,10 +8,10 @@ class Solution:
 
         stack = []
 
-        index = word.find(ch)
-
-        if index == -1:
+        if ch not in word:
             return word
+        
+        index = word.index(ch)
 
         for i in range(index + 1):
             stack.append(word[i])
