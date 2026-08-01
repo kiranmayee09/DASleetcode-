@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/kiranmayee09/DASleetcode-/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kiranmayee09/DASleetcode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiranmayee09/DASleetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kiranmayee09/DASleetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
