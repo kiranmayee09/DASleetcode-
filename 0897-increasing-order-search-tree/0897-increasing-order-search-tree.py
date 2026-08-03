@@ -28,7 +28,7 @@ class Solution:
         return dummy.right """
 
 
-        stack = []
+        """ stack = []
         dummy = TreeNode(0)
         current = dummy
 
@@ -46,4 +46,25 @@ class Solution:
 
             root = root.right
     
+        return dummy.right """
+
+        values = []
+
+        def inorder(node):
+            if not node:
+                return 
+            
+            inorder(node.left)
+            values.append(node.val)
+            inorder(node.right)
+
+        inorder(root)
+
+        dummy = TreeNode(0)
+        current = dummy
+
+        for value in values:
+            current.right = TreeNode(value)
+            current = current.right
+
         return dummy.right
