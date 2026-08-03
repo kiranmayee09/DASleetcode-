@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def increasingBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        dummy = TreeNode(0)
+        """ dummy = TreeNode(0)
         self.current = dummy
 
         def inorder(node):
@@ -25,4 +25,25 @@ class Solution:
 
         inorder(root)
 
+        return dummy.right """
+
+
+        stack = []
+        dummy = TreeNode(0)
+        current = dummy
+
+        while stack or root:
+
+            while root:
+                stack.append(root)
+                root = root.left
+            
+            root = stack.pop()
+
+            root.left = None
+            current.right = root
+            current = root
+
+            root = root.right
+    
         return dummy.right
