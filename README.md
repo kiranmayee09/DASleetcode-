@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kiranmayee09/DASleetcode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kiranmayee09/DASleetcode-/tree/master/3146-permutation-difference-between-two-strings) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiranmayee09/DASleetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/kiranmayee09/DASleetcode-/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kiranmayee09/DASleetcode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiranmayee09/DASleetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kiranmayee09/DASleetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kiranmayee09/DASleetcode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
