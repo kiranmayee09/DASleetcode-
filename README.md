@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kiranmayee09/DASleetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/kiranmayee09/DASleetcode-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0706-design-hashmap) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/kiranmayee09/DASleetcode-/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiranmayee09/DASleetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
