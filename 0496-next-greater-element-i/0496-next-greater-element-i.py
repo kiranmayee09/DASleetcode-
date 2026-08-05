@@ -1,6 +1,6 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        answer = []
+        """ answer = []
 
         for number in nums1:
             found = False
@@ -18,4 +18,21 @@ class Solution:
             if found == False:
                 answer.append(-1)
 
+        return answer """
+
+        stack = []
+        next_grater = {}
+
+        for num in nums2:
+            while stack and num > stack[-1]:
+                next_grater[stack.pop()] = num
+            stack.append(num)
+
+        while stack:
+            next_grater[stack.pop()] = -1
+
+        answer = []
+        for num in nums1:
+            answer.append(next_grater[num])
+            
         return answer
