@@ -1,6 +1,6 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
-        stack = []
+        """ stack = []
 
         for ch in s:
 
@@ -9,4 +9,13 @@ class Solution:
             else:
                 stack.append(ch)
 
-        return "".join(stack)
+        return "".join(stack) """
+
+        ans = ""
+
+        for i in s:
+            if ans and ans[-1] == i:
+                ans = ans[:-1]
+            else:
+                ans += i
+        return ans
