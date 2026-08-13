@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/kiranmayee09/DASleetcode-/tree/master/1108-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/kiranmayee09/DASleetcode-/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/kiranmayee09/DASleetcode-/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kiranmayee09/DASleetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/kiranmayee09/DASleetcode-/tree/master/1816-truncate-sentence) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiranmayee09/DASleetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1534-count-good-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/1534-count-good-triplets) |
+| [1598-crawler-log-folder](https://github.com/kiranmayee09/DASleetcode-/tree/master/1598-crawler-log-folder) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kiranmayee09/DASleetcode-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kiranmayee09/DASleetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiranmayee09/DASleetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiranmayee09/DASleetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/kiranmayee09/DASleetcode-/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/kiranmayee09/DASleetcode-/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiranmayee09/DASleetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/kiranmayee09/DASleetcode-/tree/master/2000-reverse-prefix-of-word) |
