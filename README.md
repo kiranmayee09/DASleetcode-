@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kiranmayee09/DASleetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kiranmayee09/DASleetcode-/tree/master/0802-find-eventual-safe-states) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kiranmayee09/DASleetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3668-restore-finishing-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kiranmayee09/DASleetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kiranmayee09/DASleetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kiranmayee09/DASleetcode-/tree/master/0073-set-matrix-zeroes) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kiranmayee09/DASleetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Interactive
 |  |
 | ------- |
