@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/kiranmayee09/DASleetcode-/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/kiranmayee09/DASleetcode-/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/kiranmayee09/DASleetcode-/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/kiranmayee09/DASleetcode-/tree/master/2652-sum-multiples) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/kiranmayee09/DASleetcode-/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiranmayee09/DASleetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kiranmayee09/DASleetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
