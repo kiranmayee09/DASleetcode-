@@ -1,6 +1,6 @@
 class Solution:
     def numberOfMatches(self, n: int) -> int:
-        matches = 0
+        """ matches = 0
 
         while n > 1:
             if n % 2 == 0:
@@ -9,5 +9,7 @@ class Solution:
             else:
                 matches += (n - 1) // 2
                 n = n // 2 + 1
-                
-        return matches
+
+        return matches """
+        
+        return n - 1
