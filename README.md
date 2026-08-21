@@ -519,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kiranmayee09/DASleetcode-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
