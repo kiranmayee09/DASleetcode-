@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kiranmayee09/DASleetcode-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kiranmayee09/DASleetcode-/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kiranmayee09/DASleetcode-/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/kiranmayee09/DASleetcode-/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/kiranmayee09/DASleetcode-/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kiranmayee09/DASleetcode-/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/kiranmayee09/DASleetcode-/tree/master/1683-invalid-tweets) |
