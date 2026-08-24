@@ -11,9 +11,14 @@ class Solution:
 
         gcd = math.gcd(sumodd, sumeven)
 
-        return gcd """
+        return gcd 
 
         sumodd = sum(range(1, 2 * n, 2))
         sumeven = sum(range(2, 2 * n + 1, 2))
+
+        return math.gcd(sumodd, sumeven) """
+
+        sumodd = n * n
+        sumeven = n * (n + 1)
 
         return math.gcd(sumodd, sumeven)
