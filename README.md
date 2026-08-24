@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kiranmayee09/DASleetcode-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3945-digit-frequency-score](https://github.com/kiranmayee09/DASleetcode-/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kiranmayee09/DASleetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/kiranmayee09/DASleetcode-/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/kiranmayee09/DASleetcode-/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
