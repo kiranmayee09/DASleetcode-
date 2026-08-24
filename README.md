@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/3280-convert-date-to-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kiranmayee09/DASleetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kiranmayee09/DASleetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/kiranmayee09/DASleetcode-/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/kiranmayee09/DASleetcode-/tree/master/3945-digit-frequency-score) |
@@ -536,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/kiranmayee09/DASleetcode-/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/kiranmayee09/DASleetcode-/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kiranmayee09/DASleetcode-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kiranmayee09/DASleetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
