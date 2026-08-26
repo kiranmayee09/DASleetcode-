@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/kiranmayee09/DASleetcode-/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/kiranmayee09/DASleetcode-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kiranmayee09/DASleetcode-/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/kiranmayee09/DASleetcode-/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
