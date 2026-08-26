@@ -6,7 +6,7 @@ class Solution:
         while num > 0:
             digit = num % 10
 
-            if digit != 0 and original % digit == 0:
+            if original % digit == 0:
                 count += 1
 
             num //= 10
