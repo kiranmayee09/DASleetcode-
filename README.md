@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3668-restore-finishing-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kiranmayee09/DASleetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kiranmayee09/DASleetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiranmayee09/DASleetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/kiranmayee09/DASleetcode-/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/kiranmayee09/DASleetcode-/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
