@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kiranmayee09/DASleetcode-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/kiranmayee09/DASleetcode-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kiranmayee09/DASleetcode-/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/kiranmayee09/DASleetcode-/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
