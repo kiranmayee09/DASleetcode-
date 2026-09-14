@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/kiranmayee09/DASleetcode-/tree/master/1688-count-of-matches-in-tournament) |
@@ -588,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
