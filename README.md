@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/kiranmayee09/DASleetcode-/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/kiranmayee09/DASleetcode-/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3894-traffic-signal-color](https://github.com/kiranmayee09/DASleetcode-/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/kiranmayee09/DASleetcode-/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3959-check-good-integer) |
 ## Queue
 |  |
 | ------- |
