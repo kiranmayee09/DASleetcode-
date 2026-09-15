@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kiranmayee09/DASleetcode-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kiranmayee09/DASleetcode-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kiranmayee09/DASleetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kiranmayee09/DASleetcode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0836-rectangle-overlap) |
