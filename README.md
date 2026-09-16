@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiranmayee09/DASleetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/kiranmayee09/DASleetcode-/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/kiranmayee09/DASleetcode-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/kiranmayee09/DASleetcode-/tree/master/2235-add-two-integers) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiranmayee09/DASleetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiranmayee09/DASleetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/kiranmayee09/DASleetcode-/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiranmayee09/DASleetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/kiranmayee09/DASleetcode-/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiranmayee09/DASleetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
