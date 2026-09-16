@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/kiranmayee09/DASleetcode-/tree/master/3894-traffic-signal-color) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kiranmayee09/DASleetcode-/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/kiranmayee09/DASleetcode-/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiranmayee09/DASleetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kiranmayee09/DASleetcode-/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prime Factorization
 |  |
 | ------- |
