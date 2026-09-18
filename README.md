@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiranmayee09/DASleetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/kiranmayee09/DASleetcode-/tree/master/1688-count-of-matches-in-tournament) |
+| [1837-sum-of-digits-in-base-k](https://github.com/kiranmayee09/DASleetcode-/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/kiranmayee09/DASleetcode-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/kiranmayee09/DASleetcode-/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/kiranmayee09/DASleetcode-/tree/master/2413-smallest-even-multiple) |
