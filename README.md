@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/kiranmayee09/DASleetcode-/tree/master/0343-integer-break) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiranmayee09/DASleetcode-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiranmayee09/DASleetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/kiranmayee09/DASleetcode-/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
