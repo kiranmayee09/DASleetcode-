@@ -9,6 +9,10 @@ class Solution:
             
             seen.add(n)
 
-            n = sum(int(digit) ** 2 for digit in str(n))
+            total = 0
+            for digit in str(n):
+                total += int(digit) ** 2
+            
+            n = total
 
         return True
