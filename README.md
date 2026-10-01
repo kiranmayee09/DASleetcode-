@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kiranmayee09/DASleetcode-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kiranmayee09/DASleetcode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kiranmayee09/DASleetcode-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kiranmayee09/DASleetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0344-reverse-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kiranmayee09/DASleetcode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kiranmayee09/DASleetcode-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/kiranmayee09/DASleetcode-/tree/master/0343-integer-break) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
@@ -621,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
