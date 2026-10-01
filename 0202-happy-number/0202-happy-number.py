@@ -10,8 +10,12 @@ class Solution:
             seen.add(n)
 
             total = 0
-            for digit in str(n):
-                total += int(digit) ** 2
+            x = n
+
+            while x > 0:
+                digit = x % 10
+                total += digit * digit
+                x //= 10
             
             n = total
 
