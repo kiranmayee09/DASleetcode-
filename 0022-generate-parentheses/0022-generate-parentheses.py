@@ -1,19 +1,25 @@
 class Solution:
     def generateParenthesis(self, n: int) -> list[str]:
-        result = []
+        # only add open peranthesis if open < n
+        # only add a closing parenthesis if closed < opem
+        # valid iif open == closed == n
 
-        def backtrack(s, open, close):
+        stack = []
+        res = []
 
-            if len(s) == 2 * n:
-                result.append(s)
-                return
-            
-            if open < n:
-                backtrack(s + "(", open + 1, close)
+        def backtrack(openN, closedN):
+            if openN == closedN == n:
+                res.append("".join(stack))
 
-            if close < open:
-                backtrack(s + ")", open, close + 1)
+            if openN < n:
+                stack.append("(")
+                backtrack(openN + 1, closedN)
+                stack.pop()
 
-        backtrack("", 0, 0)
+            if closedN < openN:
+                stack.append(")")
+                backtrack(openN, closedN + 1)
+                stack.pop()
 
-        return result
+        backtrack(0, 0)
+        return res
