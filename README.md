@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kiranmayee09/DASleetcode-/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/kiranmayee09/DASleetcode-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kiranmayee09/DASleetcode-/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kiranmayee09/DASleetcode-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kiranmayee09/DASleetcode-/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/kiranmayee09/DASleetcode-/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kiranmayee09/DASleetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/kiranmayee09/DASleetcode-/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0678-valid-parenthesis-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kiranmayee09/DASleetcode-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search Tree
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/kiranmayee09/DASleetcode-/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kiranmayee09/DASleetcode-/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiranmayee09/DASleetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Heap (Priority Queue)
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kiranmayee09/DASleetcode-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
 | ------- |
