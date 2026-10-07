@@ -2,8 +2,12 @@ import math
 
 class Solution:
     def mySqrt(self, x: int) -> int:
-        i = 0
-        # Keep going up while the next number squared is less than or equal to x
-        while (i + 1) * (i + 1) <= x:
+        if x < 2:
+            return x
+
+        i = 1
+
+        while i * i <= x:
             i += 1
-        return i
+
+        return i - 1
