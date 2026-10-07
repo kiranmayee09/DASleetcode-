@@ -5,9 +5,15 @@ class Solution:
         if x < 2:
             return x
 
-        i = 1
+        left = 1
+        right = x
 
-        while i * i <= x:
-            i += 1
+        while left <= right:
+            mid = (left + right) // 2
 
-        return i - 1
+            if mid * mid <= x:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return right
