@@ -1,6 +1,6 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
-        """ ans = []
+        ans = []
         depth = 0
 
         for ch in s:
@@ -13,8 +13,8 @@ class Solution:
                 if depth > 0:
                     ans.append(ch)
         
-        return "".join(ans) """
-
+        return "".join(ans) 
+        """
         stack = []
         ans = []
 
@@ -33,7 +33,7 @@ class Solution:
                     
         return "".join(ans) 
 
-        """ result = ""
+        result = ""
         count = 0
         for ch in s:
             if ch == "(":
