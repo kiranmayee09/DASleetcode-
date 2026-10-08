@@ -15,7 +15,7 @@ class Solution:
         
         return "".join(ans) """
 
-        """ stack = []
+        stack = []
         ans = []
 
         for ch in s:
@@ -31,9 +31,9 @@ class Solution:
                 if stack:
                     ans.append(ch)
                     
-        return "".join(ans) """
+        return "".join(ans) 
 
-        result = ""
+        """ result = ""
         count = 0
         for ch in s:
             if ch == "(":
@@ -44,4 +44,4 @@ class Solution:
                 count -= 1
                 if count > 0:
                     result += ch
-        return result
+        return result """
