@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kiranmayee09/DASleetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2974-minimum-number-game](https://github.com/kiranmayee09/DASleetcode-/tree/master/2974-minimum-number-game) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/kiranmayee09/DASleetcode-/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kiranmayee09/DASleetcode-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kiranmayee09/DASleetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiranmayee09/DASleetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
