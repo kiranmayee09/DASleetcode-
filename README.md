@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/kiranmayee09/DASleetcode-/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/kiranmayee09/DASleetcode-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kiranmayee09/DASleetcode-/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kiranmayee09/DASleetcode-/tree/master/0596-classes-with-at-least-5-students) |
