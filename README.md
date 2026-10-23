@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/kiranmayee09/DASleetcode-/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/kiranmayee09/DASleetcode-/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kiranmayee09/DASleetcode-/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1527-patients-with-a-condition](https://github.com/kiranmayee09/DASleetcode-/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/kiranmayee09/DASleetcode-/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/kiranmayee09/DASleetcode-/tree/master/1729-find-followers-count) |
