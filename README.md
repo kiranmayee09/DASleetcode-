@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/kiranmayee09/DASleetcode-/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kiranmayee09/DASleetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kiranmayee09/DASleetcode-/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2409-count-days-spent-together](https://github.com/kiranmayee09/DASleetcode-/tree/master/2409-count-days-spent-together) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kiranmayee09/DASleetcode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/kiranmayee09/DASleetcode-/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/kiranmayee09/DASleetcode-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/kiranmayee09/DASleetcode-/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/kiranmayee09/DASleetcode-/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/kiranmayee09/DASleetcode-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kiranmayee09/DASleetcode-/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
