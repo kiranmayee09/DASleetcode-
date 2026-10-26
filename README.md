@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kiranmayee09/DASleetcode-/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/kiranmayee09/DASleetcode-/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/kiranmayee09/DASleetcode-/tree/master/0709-to-lower-case) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kiranmayee09/DASleetcode-/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kiranmayee09/DASleetcode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kiranmayee09/DASleetcode-/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/kiranmayee09/DASleetcode-/tree/master/0343-integer-break) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kiranmayee09/DASleetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0788-rotated-digits](https://github.com/kiranmayee09/DASleetcode-/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/kiranmayee09/DASleetcode-/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/kiranmayee09/DASleetcode-/tree/master/1486-xor-operation-in-an-array) |
