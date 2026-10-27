@@ -1,12 +1,10 @@
 class Solution:
     def createGrid(self, m: int, n: int) -> List[str]:
-        grid = [""] * m
+        grid = [["#"] * n for _ in range(m)]
 
-        grid[0] = "." * n
+        grid[0] = ["."] * n
 
-        row = "#" * (n - 1) + "."
+        for i in range(m):
+            grid[i][n - 1] = "."
 
-        for i in range(1, m):
-            grid[i] = row
-
-        return grid
+        return ["".join(row) for row in grid]
