@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/kiranmayee09/DASleetcode-/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiranmayee09/DASleetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/kiranmayee09/DASleetcode-/tree/master/3668-restore-finishing-order) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kiranmayee09/DASleetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kiranmayee09/DASleetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/kiranmayee09/DASleetcode-/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kiranmayee09/DASleetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiranmayee09/DASleetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kiranmayee09/DASleetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiranmayee09/DASleetcode-/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3875-construct-uniform-parity-array-i) |
