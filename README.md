@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/kiranmayee09/DASleetcode-/tree/master/2409-count-days-spent-together) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/kiranmayee09/DASleetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kiranmayee09/DASleetcode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kiranmayee09/DASleetcode-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiranmayee09/DASleetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/kiranmayee09/DASleetcode-/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kiranmayee09/DASleetcode-/tree/master/3146-permutation-difference-between-two-strings) |
